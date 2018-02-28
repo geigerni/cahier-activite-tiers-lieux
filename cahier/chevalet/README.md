@@ -7,5 +7,6 @@ Peu de découpe et solide ! Conçu à l'origine pour un smartphone, les dimensio
 
 https://mobile.grabonestore.co.nz/world/wood-laser-cut-ipad-stand?no_legacy_hybrid_redirect=1
 Version plus élaborée mais un bel objet.
+On trouve le même objet/fichier librement téléchargeable, en dimension smartphone (mais facilement dimensionnable pour un livre) ici : http://www.instructables.com/id/Phone-Stand-Headphone-Wrap-Laser-Cut-and-Living/ Facile à faire dans le fablab près de chez soi.
 
 *Bientôt une version prête à télécharger d'un chevalet adapté au cahier*
